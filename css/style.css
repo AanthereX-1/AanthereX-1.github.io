@@ -620,7 +620,7 @@ footer.footer-area .social a > i{
 }
 
 .social .fa-github {
-    color: var(--title-color);
+    color: #111;
 }
 .social .fa-at{
     color: var(--gmail-color);
